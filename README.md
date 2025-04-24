@@ -1,7 +1,4 @@
-# livepoll-dashboard
-
 # Live Poll Dashboard using Kafka & Streamlit
-
 This dashboard displays live poll responses received through Apache Kafka.
 
 ## Features
